@@ -48,3 +48,5 @@ Detalle de Requerimiento	y Descripción:
 - Escalabilidad:	El sistema será escalable, en caso de aumentar el número de usuarios o requerimientos a nivel de software y/o hardware.
 
 # 9.	MODELO ENTIDAD RELACION:
+
+![Alt text](https://github.com/jcartes/IOTAgro/blob/master/imgagricola.png?raw=true "IoTAgro")
